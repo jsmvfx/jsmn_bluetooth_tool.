@@ -24,9 +24,15 @@ This tool is for **authorized security testing only**. Unauthorized use is illeg
 
 ## 🚀 Quick Start  
 ```bash
-git clone https://github.com/jsmvfx/jsmn_bluetooth_tool..git 
-cd jsmn_bluetooth_tool.py  
-pip install -r requirements.txt  
+git clone https://github.com/jsmvfx/jsmn_bluetooth_tool..git
+
+``bash
+cd jsmn_bluetooth_tool.py
+
+``bash
+pip install -r requirements.txt
+
+``bash
 sudo python3 jsmn_bluetooth_tool.py 
 
 
